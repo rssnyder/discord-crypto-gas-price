@@ -1,5 +1,5 @@
 # discord-crypto-gas-price
-a discord bot to display the current reccomended gas amount for binance smart chain transactions
+a discord bot to display the current reccomended gas amount for ethereum, binance smart chain, or polygon transactions
 
 ![Ethereum Demo Gif](https://s3.cloud.rileysnyder.org/public/assets/ethgas.gif)
 ![Binance Smart Chain Demo Gif](https://s3.cloud.rileysnyder.org/public/assets/bscgas.gif)
